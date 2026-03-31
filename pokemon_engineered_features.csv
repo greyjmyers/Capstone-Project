@@ -1,0 +1,1220 @@
+Dex_Number,Base_Name,Name,Form,Generation,Legendary,Mythical,Shiny_Obtainable
+1,Bulbasaur,Bulbasaur,,1,0,0,1
+2,Ivysaur,Ivysaur,,1,0,0,1
+3,Venusaur,Venusaur,,1,0,0,1
+3,Venusaur,Venusaur (Mega),Mega,1,0,0,1
+4,Charmander,Charmander,,1,0,0,1
+5,Charmeleon,Charmeleon,,1,0,0,1
+6,Charizard,Charizard,,1,0,0,1
+6,Charizard,Charizard (Mega X),Mega X,1,0,0,1
+6,Charizard,Charizard (Mega Y),Mega Y,1,0,0,1
+7,Squirtle,Squirtle,,1,0,0,1
+8,Wartortle,Wartortle,,1,0,0,1
+9,Blastoise,Blastoise,,1,0,0,1
+9,Blastoise,Blastoise (Mega),Mega,1,0,0,1
+10,Caterpie,Caterpie,,1,0,0,1
+11,Metapod,Metapod,,1,0,0,1
+12,Butterfree,Butterfree,,1,0,0,1
+13,Weedle,Weedle,,1,0,0,1
+14,Kakuna,Kakuna,,1,0,0,1
+15,Beedrill,Beedrill,,1,0,0,1
+15,Beedrill,Beedrill (Mega),Mega,1,0,0,1
+16,Pidgey,Pidgey,,1,0,0,1
+17,Pidgeotto,Pidgeotto,,1,0,0,1
+18,Pidgeot,Pidgeot,,1,0,0,1
+18,Pidgeot,Pidgeot (Mega),Mega,1,0,0,1
+19,Rattata,Rattata,,1,0,0,1
+19,Rattata,Rattata (Alolan),Alolan,1,0,0,1
+20,Raticate,Raticate,,1,0,0,1
+20,Raticate,Raticate (Alolan),Alolan,1,0,0,1
+21,Spearow,Spearow,,1,0,0,1
+22,Fearow,Fearow,,1,0,0,1
+23,Ekans,Ekans,,1,0,0,1
+24,Arbok,Arbok,,1,0,0,1
+25,Pikachu,Pikachu,,1,0,0,1
+25,Pikachu,Pikachu (Partner),Partner,1,0,0,1
+26,Raichu,Raichu,,1,0,0,1
+26,Raichu,Raichu (Alolan),Alolan,1,0,0,1
+27,Sandshrew,Sandshrew,,1,0,0,1
+27,Sandshrew,Sandshrew (Alolan),Alolan,1,0,0,1
+28,Sandslash,Sandslash,,1,0,0,1
+28,Sandslash,Sandslash (Alolan),Alolan,1,0,0,1
+29,Nidoran♀,Nidoran♀,,1,0,0,1
+30,Nidorina,Nidorina,,1,0,0,1
+31,Nidoqueen,Nidoqueen,,1,0,0,1
+32,Nidoran♂,Nidoran♂,,1,0,0,1
+33,Nidorino,Nidorino,,1,0,0,1
+34,Nidoking,Nidoking,,1,0,0,1
+35,Clefairy,Clefairy,,1,0,0,1
+36,Clefable,Clefable,,1,0,0,1
+37,Vulpix,Vulpix,,1,0,0,1
+37,Vulpix,Vulpix (Alolan),Alolan,1,0,0,1
+38,Ninetales,Ninetales,,1,0,0,1
+38,Ninetales,Ninetales (Alolan),Alolan,1,0,0,1
+39,Jigglypuff,Jigglypuff,,1,0,0,1
+40,Wigglytuff,Wigglytuff,,1,0,0,1
+41,Zubat,Zubat,,1,0,0,1
+42,Golbat,Golbat,,1,0,0,1
+43,Oddish,Oddish,,1,0,0,1
+44,Gloom,Gloom,,1,0,0,1
+45,Vileplume,Vileplume,,1,0,0,1
+46,Paras,Paras,,1,0,0,1
+47,Parasect,Parasect,,1,0,0,1
+48,Venonat,Venonat,,1,0,0,1
+49,Venomoth,Venomoth,,1,0,0,1
+50,Diglett,Diglett,,1,0,0,1
+50,Diglett,Diglett (Alolan),Alolan,1,0,0,1
+51,Dugtrio,Dugtrio,,1,0,0,1
+51,Dugtrio,Dugtrio (Alolan),Alolan,1,0,0,1
+52,Meowth,Meowth,,1,0,0,1
+52,Meowth,Meowth (Alolan),Alolan,1,0,0,1
+52,Meowth,Meowth (Galarian),Galarian,1,0,0,1
+53,Persian,Persian,,1,0,0,1
+53,Persian,Persian (Alolan),Alolan,1,0,0,1
+54,Psyduck,Psyduck,,1,0,0,1
+55,Golduck,Golduck,,1,0,0,1
+56,Mankey,Mankey,,1,0,0,1
+57,Primeape,Primeape,,1,0,0,1
+58,Growlithe,Growlithe,,1,0,0,1
+58,Growlithe,Growlithe (Hisuian),Hisuian,1,0,0,1
+59,Arcanine,Arcanine,,1,0,0,1
+59,Arcanine,Arcanine (Hisuian),Hisuian,1,0,0,1
+60,Poliwag,Poliwag,,1,0,0,1
+61,Poliwhirl,Poliwhirl,,1,0,0,1
+62,Poliwrath,Poliwrath,,1,0,0,1
+63,Abra,Abra,,1,0,0,1
+64,Kadabra,Kadabra,,1,0,0,1
+65,Alakazam,Alakazam,,1,0,0,1
+65,Alakazam,Alakazam (Mega),Mega,1,0,0,1
+66,Machop,Machop,,1,0,0,1
+67,Machoke,Machoke,,1,0,0,1
+68,Machamp,Machamp,,1,0,0,1
+69,Bellsprout,Bellsprout,,1,0,0,1
+70,Weepinbell,Weepinbell,,1,0,0,1
+71,Victreebel,Victreebel,,1,0,0,1
+71,Victreebel,Victreebel (Mega),Mega,1,0,0,1
+72,Tentacool,Tentacool,,1,0,0,1
+73,Tentacruel,Tentacruel,,1,0,0,1
+74,Geodude,Geodude,,1,0,0,1
+74,Geodude,Geodude (Alolan),Alolan,1,0,0,1
+75,Graveler,Graveler,,1,0,0,1
+75,Graveler,Graveler (Alolan),Alolan,1,0,0,1
+76,Golem,Golem,,1,0,0,1
+76,Golem,Golem (Alolan),Alolan,1,0,0,1
+77,Ponyta,Ponyta,,1,0,0,1
+77,Ponyta,Ponyta (Galarian),Galarian,1,0,0,1
+78,Rapidash,Rapidash,,1,0,0,1
+78,Rapidash,Rapidash (Galarian),Galarian,1,0,0,1
+79,Slowpoke,Slowpoke,,1,0,0,1
+79,Slowpoke,Slowpoke (Galarian),Galarian,1,0,0,1
+80,Slowbro,Slowbro,,1,0,0,1
+80,Slowbro,Slowbro (Mega),Mega,1,0,0,1
+80,Slowbro,Slowbro (Galarian),Galarian,1,0,0,1
+81,Magnemite,Magnemite,,1,0,0,1
+82,Magneton,Magneton,,1,0,0,1
+83,Farfetch'd,Farfetch'd,,1,0,0,1
+83,Farfetch'd,Farfetch'd (Galarian),Galarian,1,0,0,1
+84,Doduo,Doduo,,1,0,0,1
+85,Dodrio,Dodrio,,1,0,0,1
+86,Seel,Seel,,1,0,0,1
+87,Dewgong,Dewgong,,1,0,0,1
+88,Grimer,Grimer,,1,0,0,1
+88,Grimer,Grimer (Alolan),Alolan,1,0,0,1
+89,Muk,Muk,,1,0,0,1
+89,Muk,Muk (Alolan),Alolan,1,0,0,1
+90,Shellder,Shellder,,1,0,0,1
+91,Cloyster,Cloyster,,1,0,0,1
+92,Gastly,Gastly,,1,0,0,1
+93,Haunter,Haunter,,1,0,0,1
+94,Gengar,Gengar,,1,0,0,1
+94,Gengar,Gengar (Mega),Mega,1,0,0,1
+95,Onix,Onix,,1,0,0,1
+96,Drowzee,Drowzee,,1,0,0,1
+97,Hypno,Hypno,,1,0,0,1
+98,Krabby,Krabby,,1,0,0,1
+99,Kingler,Kingler,,1,0,0,1
+100,Voltorb,Voltorb,,1,0,0,1
+100,Voltorb,Voltorb (Hisuian),Hisuian,1,0,0,1
+101,Electrode,Electrode,,1,0,0,1
+101,Electrode,Electrode (Hisuian),Hisuian,1,0,0,1
+102,Exeggcute,Exeggcute,,1,0,0,1
+103,Exeggutor,Exeggutor,,1,0,0,1
+103,Exeggutor,Exeggutor (Alolan),Alolan,1,0,0,1
+104,Cubone,Cubone,,1,0,0,1
+105,Marowak,Marowak,,1,0,0,1
+105,Marowak,Marowak (Alolan),Alolan,1,0,0,1
+106,Hitmonlee,Hitmonlee,,1,0,0,1
+107,Hitmonchan,Hitmonchan,,1,0,0,1
+108,Lickitung,Lickitung,,1,0,0,1
+109,Koffing,Koffing,,1,0,0,1
+110,Weezing,Weezing,,1,0,0,1
+110,Weezing,Weezing (Galarian),Galarian,1,0,0,1
+111,Rhyhorn,Rhyhorn,,1,0,0,1
+112,Rhydon,Rhydon,,1,0,0,1
+113,Chansey,Chansey,,1,0,0,1
+114,Tangela,Tangela,,1,0,0,1
+115,Kangaskhan,Kangaskhan,,1,0,0,1
+115,Kangaskhan,Kangaskhan (Mega),Mega,1,0,0,1
+116,Horsea,Horsea,,1,0,0,1
+117,Seadra,Seadra,,1,0,0,1
+118,Goldeen,Goldeen,,1,0,0,1
+119,Seaking,Seaking,,1,0,0,1
+120,Staryu,Staryu,,1,0,0,1
+121,Starmie,Starmie,,1,0,0,1
+122,Mr. Mime,Mr. Mime,,1,0,0,1
+122,Mr. Mime,Mr. Mime (Galarian),Galarian,1,0,0,1
+123,Scyther,Scyther,,1,0,0,1
+124,Jynx,Jynx,,1,0,0,1
+125,Electabuzz,Electabuzz,,1,0,0,1
+126,Magmar,Magmar,,1,0,0,1
+127,Pinsir,Pinsir,,1,0,0,1
+127,Pinsir,Pinsir (Mega),Mega,1,0,0,1
+128,Tauros,Tauros,,1,0,0,1
+128,Tauros,Tauros (Combat Breed),Combat Breed,1,0,0,1
+128,Tauros,Tauros (Blaze Breed),Blaze Breed,1,0,0,1
+128,Tauros,Tauros (Aqua Breed),Aqua Breed,1,0,0,1
+129,Magikarp,Magikarp,,1,0,0,1
+130,Gyarados,Gyarados,,1,0,0,1
+130,Gyarados,Gyarados (Mega),Mega,1,0,0,1
+131,Lapras,Lapras,,1,0,0,1
+132,Ditto,Ditto,,1,0,0,1
+133,Eevee,Eevee,,1,0,0,1
+133,Eevee,Eevee (Partner),Partner,1,0,0,1
+134,Vaporeon,Vaporeon,,1,0,0,1
+135,Jolteon,Jolteon,,1,0,0,1
+136,Flareon,Flareon,,1,0,0,1
+137,Porygon,Porygon,,1,0,0,1
+138,Omanyte,Omanyte,,1,0,0,1
+139,Omastar,Omastar,,1,0,0,1
+140,Kabuto,Kabuto,,1,0,0,1
+141,Kabutops,Kabutops,,1,0,0,1
+142,Aerodactyl,Aerodactyl,,1,0,0,1
+142,Aerodactyl,Aerodactyl (Mega),Mega,1,0,0,1
+143,Snorlax,Snorlax,,1,0,0,1
+144,Articuno,Articuno,,1,1,0,1
+144,Articuno,Articuno (Galarian),Galarian,1,1,0,1
+145,Zapdos,Zapdos,,1,1,0,1
+145,Zapdos,Zapdos (Galarian),Galarian,1,1,0,1
+146,Moltres,Moltres,,1,1,0,1
+146,Moltres,Moltres (Galarian),Galarian,1,1,0,1
+147,Dratini,Dratini,,1,0,0,1
+148,Dragonair,Dragonair,,1,0,0,1
+149,Dragonite,Dragonite,,1,0,0,1
+149,Dragonite,Dragonite (Mega),Mega,1,0,0,1
+150,Mewtwo,Mewtwo,,1,1,0,1
+150,Mewtwo,Mewtwo (Mega X),Mega X,1,1,0,1
+150,Mewtwo,Mewtwo (Mega Y),Mega Y,1,1,0,1
+151,Mew,Mew,,1,0,1,1
+152,Chikorita,Chikorita,,2,0,0,1
+153,Bayleef,Bayleef,,2,0,0,1
+154,Meganium,Meganium,,2,0,0,1
+155,Cyndaquil,Cyndaquil,,2,0,0,1
+156,Quilava,Quilava,,2,0,0,1
+157,Typhlosion,Typhlosion,,2,0,0,1
+157,Typhlosion,Typhlosion (Hisuian),Hisuian,2,0,0,1
+158,Totodile,Totodile,,2,0,0,1
+159,Croconaw,Croconaw,,2,0,0,1
+160,Feraligatr,Feraligatr,,2,0,0,1
+161,Sentret,Sentret,,2,0,0,1
+162,Furret,Furret,,2,0,0,1
+163,Hoothoot,Hoothoot,,2,0,0,1
+164,Noctowl,Noctowl,,2,0,0,1
+165,Ledyba,Ledyba,,2,0,0,1
+166,Ledian,Ledian,,2,0,0,1
+167,Spinarak,Spinarak,,2,0,0,1
+168,Ariados,Ariados,,2,0,0,1
+169,Crobat,Crobat,,2,0,0,1
+170,Chinchou,Chinchou,,2,0,0,1
+171,Lanturn,Lanturn,,2,0,0,1
+172,Pichu,Pichu,,2,0,0,1
+173,Cleffa,Cleffa,,2,0,0,1
+174,Igglybuff,Igglybuff,,2,0,0,1
+175,Togepi,Togepi,,2,0,0,1
+176,Togetic,Togetic,,2,0,0,1
+177,Natu,Natu,,2,0,0,1
+178,Xatu,Xatu,,2,0,0,1
+179,Mareep,Mareep,,2,0,0,1
+180,Flaaffy,Flaaffy,,2,0,0,1
+181,Ampharos,Ampharos,,2,0,0,1
+181,Ampharos,Ampharos (Mega),Mega,2,0,0,1
+182,Bellossom,Bellossom,,2,0,0,1
+183,Marill,Marill,,2,0,0,1
+184,Azumarill,Azumarill,,2,0,0,1
+185,Sudowoodo,Sudowoodo,,2,0,0,1
+186,Politoed,Politoed,,2,0,0,1
+187,Hoppip,Hoppip,,2,0,0,1
+188,Skiploom,Skiploom,,2,0,0,1
+189,Jumpluff,Jumpluff,,2,0,0,1
+190,Aipom,Aipom,,2,0,0,1
+191,Sunkern,Sunkern,,2,0,0,1
+192,Sunflora,Sunflora,,2,0,0,1
+193,Yanma,Yanma,,2,0,0,1
+194,Wooper,Wooper,,2,0,0,1
+194,Wooper,Wooper (Paldean),Paldean,2,0,0,1
+195,Quagsire,Quagsire,,2,0,0,1
+196,Espeon,Espeon,,2,0,0,1
+197,Umbreon,Umbreon,,2,0,0,1
+198,Murkrow,Murkrow,,2,0,0,1
+199,Slowking,Slowking,,2,0,0,1
+199,Slowking,Slowking (Galarian),Galarian,2,0,0,1
+200,Misdreavus,Misdreavus,,2,0,0,1
+201,Unown,Unown,,2,0,0,1
+202,Wobbuffet,Wobbuffet,,2,0,0,1
+203,Girafarig,Girafarig,,2,0,0,1
+204,Pineco,Pineco,,2,0,0,1
+205,Forretress,Forretress,,2,0,0,1
+206,Dunsparce,Dunsparce,,2,0,0,1
+207,Gligar,Gligar,,2,0,0,1
+208,Steelix,Steelix,,2,0,0,1
+208,Steelix,Steelix (Mega),Mega,2,0,0,1
+209,Snubbull,Snubbull,,2,0,0,1
+210,Granbull,Granbull,,2,0,0,1
+211,Qwilfish,Qwilfish,,2,0,0,1
+211,Qwilfish,Qwilfish (Hisuian),Hisuian,2,0,0,1
+212,Scizor,Scizor,,2,0,0,1
+212,Scizor,Scizor (Mega),Mega,2,0,0,1
+213,Shuckle,Shuckle,,2,0,0,1
+214,Heracross,Heracross,,2,0,0,1
+214,Heracross,Heracross (Mega),Mega,2,0,0,1
+215,Sneasel,Sneasel,,2,0,0,1
+215,Sneasel,Sneasel (Hisuian),Hisuian,2,0,0,1
+216,Teddiursa,Teddiursa,,2,0,0,1
+217,Ursaring,Ursaring,,2,0,0,1
+218,Slugma,Slugma,,2,0,0,1
+219,Magcargo,Magcargo,,2,0,0,1
+220,Swinub,Swinub,,2,0,0,1
+221,Piloswine,Piloswine,,2,0,0,1
+222,Corsola,Corsola,,2,0,0,1
+222,Corsola,Corsola (Galarian),Galarian,2,0,0,1
+223,Remoraid,Remoraid,,2,0,0,1
+224,Octillery,Octillery,,2,0,0,1
+225,Delibird,Delibird,,2,0,0,1
+226,Mantine,Mantine,,2,0,0,1
+227,Skarmory,Skarmory,,2,0,0,1
+228,Houndour,Houndour,,2,0,0,1
+229,Houndoom,Houndoom,,2,0,0,1
+229,Houndoom,Houndoom (Mega),Mega,2,0,0,1
+230,Kingdra,Kingdra,,2,0,0,1
+231,Phanpy,Phanpy,,2,0,0,1
+232,Donphan,Donphan,,2,0,0,1
+233,Porygon2,Porygon2,,2,0,0,1
+234,Stantler,Stantler,,2,0,0,1
+235,Smeargle,Smeargle,,2,0,0,1
+236,Tyrogue,Tyrogue,,2,0,0,1
+237,Hitmontop,Hitmontop,,2,0,0,1
+238,Smoochum,Smoochum,,2,0,0,1
+239,Elekid,Elekid,,2,0,0,1
+240,Magby,Magby,,2,0,0,1
+241,Miltank,Miltank,,2,0,0,1
+242,Blissey,Blissey,,2,0,0,1
+243,Raikou,Raikou,,2,1,0,1
+244,Entei,Entei,,2,1,0,1
+245,Suicune,Suicune,,2,1,0,1
+246,Larvitar,Larvitar,,2,0,0,1
+247,Pupitar,Pupitar,,2,0,0,1
+248,Tyranitar,Tyranitar,,2,0,0,1
+248,Tyranitar,Tyranitar (Mega),Mega,2,0,0,1
+249,Lugia,Lugia,,2,1,0,1
+250,Ho-oh,Ho-oh,,2,0,0,1
+251,Celebi,Celebi,,2,0,1,1
+252,Treecko,Treecko,,3,0,0,1
+253,Grovyle,Grovyle,,3,0,0,1
+254,Sceptile,Sceptile,,3,0,0,1
+254,Sceptile,Sceptile (Mega),Mega,3,0,0,1
+255,Torchic,Torchic,,3,0,0,1
+256,Combusken,Combusken,,3,0,0,1
+257,Blaziken,Blaziken,,3,0,0,1
+257,Blaziken,Blaziken (Mega),Mega,3,0,0,1
+258,Mudkip,Mudkip,,3,0,0,1
+259,Marshtomp,Marshtomp,,3,0,0,1
+260,Swampert,Swampert,,3,0,0,1
+260,Swampert,Swampert (Mega),Mega,3,0,0,1
+261,Poochyena,Poochyena,,3,0,0,1
+262,Mightyena,Mightyena,,3,0,0,1
+263,Zigzagoon,Zigzagoon,,3,0,0,1
+263,Zigzagoon,Zigzagoon (Galarian),Galarian,3,0,0,1
+264,Linoone,Linoone,,3,0,0,1
+264,Linoone,Linoone (Galarian),Galarian,3,0,0,1
+265,Wurmple,Wurmple,,3,0,0,1
+266,Silcoon,Silcoon,,3,0,0,1
+267,Beautifly,Beautifly,,3,0,0,1
+268,Cascoon,Cascoon,,3,0,0,1
+269,Dustox,Dustox,,3,0,0,1
+270,Lotad,Lotad,,3,0,0,1
+271,Lombre,Lombre,,3,0,0,1
+272,Ludicolo,Ludicolo,,3,0,0,1
+273,Seedot,Seedot,,3,0,0,1
+274,Nuzleaf,Nuzleaf,,3,0,0,1
+275,Shiftry,Shiftry,,3,0,0,1
+276,Taillow,Taillow,,3,0,0,1
+277,Swellow,Swellow,,3,0,0,1
+278,Wingull,Wingull,,3,0,0,1
+279,Pelipper,Pelipper,,3,0,0,1
+280,Ralts,Ralts,,3,0,0,1
+281,Kirlia,Kirlia,,3,0,0,1
+282,Gardevoir,Gardevoir,,3,0,0,1
+282,Gardevoir,Gardevoir (Mega),Mega,3,0,0,1
+283,Surskit,Surskit,,3,0,0,1
+284,Masquerain,Masquerain,,3,0,0,1
+285,Shroomish,Shroomish,,3,0,0,1
+286,Breloom,Breloom,,3,0,0,1
+287,Slakoth,Slakoth,,3,0,0,1
+288,Vigoroth,Vigoroth,,3,0,0,1
+289,Slaking,Slaking,,3,0,0,1
+290,Nincada,Nincada,,3,0,0,1
+291,Ninjask,Ninjask,,3,0,0,1
+292,Shedinja,Shedinja,,3,0,0,1
+293,Whismur,Whismur,,3,0,0,1
+294,Loudred,Loudred,,3,0,0,1
+295,Exploud,Exploud,,3,0,0,1
+296,Makuhita,Makuhita,,3,0,0,1
+297,Hariyama,Hariyama,,3,0,0,1
+298,Azurill,Azurill,,3,0,0,1
+299,Nosepass,Nosepass,,3,0,0,1
+300,Skitty,Skitty,,3,0,0,1
+301,Delcatty,Delcatty,,3,0,0,1
+302,Sableye,Sableye,,3,0,0,1
+302,Sableye,Sableye (Mega),Mega,3,0,0,1
+303,Mawile,Mawile,,3,0,0,1
+303,Mawile,Mawile (Mega),Mega,3,0,0,1
+304,Aron,Aron,,3,0,0,1
+305,Lairon,Lairon,,3,0,0,1
+306,Aggron,Aggron,,3,0,0,1
+306,Aggron,Aggron (Mega),Mega,3,0,0,1
+307,Meditite,Meditite,,3,0,0,1
+308,Medicham,Medicham,,3,0,0,1
+308,Medicham,Medicham (Mega),Mega,3,0,0,1
+309,Electrike,Electrike,,3,0,0,1
+310,Manectric,Manectric,,3,0,0,1
+310,Manectric,Manectric (Mega),Mega,3,0,0,1
+311,Plusle,Plusle,,3,0,0,1
+312,Minun,Minun,,3,0,0,1
+313,Volbeat,Volbeat,,3,0,0,1
+314,Illumise,Illumise,,3,0,0,1
+315,Roselia,Roselia,,3,0,0,1
+316,Gulpin,Gulpin,,3,0,0,1
+317,Swalot,Swalot,,3,0,0,1
+318,Carvanha,Carvanha,,3,0,0,1
+319,Sharpedo,Sharpedo,,3,0,0,1
+319,Sharpedo,Sharpedo (Mega),Mega,3,0,0,1
+320,Wailmer,Wailmer,,3,0,0,1
+321,Wailord,Wailord,,3,0,0,1
+322,Numel,Numel,,3,0,0,1
+323,Camerupt,Camerupt,,3,0,0,1
+323,Camerupt,Camerupt (Mega),Mega,3,0,0,1
+324,Torkoal,Torkoal,,3,0,0,1
+325,Spoink,Spoink,,3,0,0,1
+326,Grumpig,Grumpig,,3,0,0,1
+327,Spinda,Spinda,,3,0,0,1
+328,Trapinch,Trapinch,,3,0,0,1
+329,Vibrava,Vibrava,,3,0,0,1
+330,Flygon,Flygon,,3,0,0,1
+331,Cacnea,Cacnea,,3,0,0,1
+332,Cacturne,Cacturne,,3,0,0,1
+333,Swablu,Swablu,,3,0,0,1
+334,Altaria,Altaria,,3,0,0,1
+334,Altaria,Altaria (Mega),Mega,3,0,0,1
+335,Zangoose,Zangoose,,3,0,0,1
+336,Seviper,Seviper,,3,0,0,1
+337,Lunatone,Lunatone,,3,0,0,1
+338,Solrock,Solrock,,3,0,0,1
+339,Barboach,Barboach,,3,0,0,1
+340,Whiscash,Whiscash,,3,0,0,1
+341,Corphish,Corphish,,3,0,0,1
+342,Crawdaunt,Crawdaunt,,3,0,0,1
+343,Baltoy,Baltoy,,3,0,0,1
+344,Claydol,Claydol,,3,0,0,1
+345,Lileep,Lileep,,3,0,0,1
+346,Cradily,Cradily,,3,0,0,1
+347,Anorith,Anorith,,3,0,0,1
+348,Armaldo,Armaldo,,3,0,0,1
+349,Feebas,Feebas,,3,0,0,1
+350,Milotic,Milotic,,3,0,0,1
+351,Castform,Castform,,3,0,0,1
+351,Castform,Castform (Sunny Form),Sunny Form,3,0,0,1
+351,Castform,Castform (Rainy Form),Rainy Form,3,0,0,1
+351,Castform,Castform (Snowy Form),Snowy Form,3,0,0,1
+352,Kecleon,Kecleon,,3,0,0,1
+353,Shuppet,Shuppet,,3,0,0,1
+354,Banette,Banette,,3,0,0,1
+354,Banette,Banette (Mega),Mega,3,0,0,1
+355,Duskull,Duskull,,3,0,0,1
+356,Dusclops,Dusclops,,3,0,0,1
+357,Tropius,Tropius,,3,0,0,1
+358,Chimecho,Chimecho,,3,0,0,1
+359,Absol,Absol,,3,0,0,1
+359,Absol,Absol (Mega),Mega,3,0,0,1
+360,Wynaut,Wynaut,,3,0,0,1
+361,Snorunt,Snorunt,,3,0,0,1
+362,Glalie,Glalie,,3,0,0,1
+362,Glalie,Glalie (Mega),Mega,3,0,0,1
+363,Spheal,Spheal,,3,0,0,1
+364,Sealeo,Sealeo,,3,0,0,1
+365,Walrein,Walrein,,3,0,0,1
+366,Clamperl,Clamperl,,3,0,0,1
+367,Huntail,Huntail,,3,0,0,1
+368,Gorebyss,Gorebyss,,3,0,0,1
+369,Relicanth,Relicanth,,3,0,0,1
+370,Luvdisc,Luvdisc,,3,0,0,1
+371,Bagon,Bagon,,3,0,0,1
+372,Shelgon,Shelgon,,3,0,0,1
+373,Salamence,Salamence,,3,0,0,1
+373,Salamence,Salamence (Mega),Mega,3,0,0,1
+374,Beldum,Beldum,,3,0,0,1
+375,Metang,Metang,,3,0,0,1
+376,Metagross,Metagross,,3,0,0,1
+376,Metagross,Metagross (Mega),Mega,3,0,0,1
+377,Regirock,Regirock,,3,1,0,1
+378,Regice,Regice,,3,1,0,1
+379,Registeel,Registeel,,3,1,0,1
+380,Latias,Latias,,3,1,0,1
+380,Latias,Latias (Mega),Mega,3,1,0,1
+381,Latios,Latios,,3,1,0,1
+381,Latios,Latios (Mega),Mega,3,1,0,1
+382,Kyogre,Kyogre,,3,1,0,1
+382,Kyogre,Kyogre (Primal),Primal,3,1,0,1
+383,Groudon,Groudon,,3,1,0,1
+383,Groudon,Groudon (Primal),Primal,3,1,0,1
+384,Rayquaza,Rayquaza,,3,1,0,1
+384,Rayquaza,Rayquaza (Mega),Mega,3,1,0,1
+385,Jirachi,Jirachi,,3,0,1,1
+386,Deoxys,Deoxys (Normal Forme),Normal Forme,3,0,1,1
+386,Deoxys,Deoxys (Attack Forme),Attack Forme,3,0,1,1
+386,Deoxys,Deoxys (Defense Forme),Defense Forme,3,0,1,1
+386,Deoxys,Deoxys (Speed Forme),Speed Forme,3,0,1,1
+387,Turtwig,Turtwig,,4,0,0,1
+388,Grotle,Grotle,,4,0,0,1
+389,Torterra,Torterra,,4,0,0,1
+390,Chimchar,Chimchar,,4,0,0,1
+391,Monferno,Monferno,,4,0,0,1
+392,Infernape,Infernape,,4,0,0,1
+393,Piplup,Piplup,,4,0,0,1
+394,Prinplup,Prinplup,,4,0,0,1
+395,Empoleon,Empoleon,,4,0,0,1
+396,Starly,Starly,,4,0,0,1
+397,Staravia,Staravia,,4,0,0,1
+398,Staraptor,Staraptor,,4,0,0,1
+399,Bidoof,Bidoof,,4,0,0,1
+400,Bibarel,Bibarel,,4,0,0,1
+401,Kricketot,Kricketot,,4,0,0,1
+402,Kricketune,Kricketune,,4,0,0,1
+403,Shinx,Shinx,,4,0,0,1
+404,Luxio,Luxio,,4,0,0,1
+405,Luxray,Luxray,,4,0,0,1
+406,Budew,Budew,,4,0,0,1
+407,Roserade,Roserade,,4,0,0,1
+408,Cranidos,Cranidos,,4,0,0,1
+409,Rampardos,Rampardos,,4,0,0,1
+410,Shieldon,Shieldon,,4,0,0,1
+411,Bastiodon,Bastiodon,,4,0,0,1
+412,Burmy,Burmy (Plant Cloak),Plant Cloak,4,0,0,1
+412,Burmy,Burmy (Sandy Cloak),Sandy Cloak,4,0,0,1
+412,Burmy,Burmy (Trash Cloak),Trash Cloak,4,0,0,1
+413,Wormadam,Wormadam (Plant Cloak),Plant Cloak,4,0,0,1
+413,Wormadam,Wormadam (Sandy Cloak),Sandy Cloak,4,0,0,1
+413,Wormadam,Wormadam (Trash Cloak),Trash Cloak,4,0,0,1
+414,Mothim,Mothim,,4,0,0,1
+415,Combee,Combee,,4,0,0,1
+416,Vespiquen,Vespiquen,,4,0,0,1
+417,Pachirisu,Pachirisu,,4,0,0,1
+418,Buizel,Buizel,,4,0,0,1
+419,Floatzel,Floatzel,,4,0,0,1
+420,Cherubi,Cherubi,,4,0,0,1
+421,Cherrim,Cherrim,,4,0,0,1
+422,Shellos,Shellos,,4,0,0,1
+423,Gastrodon,Gastrodon,,4,0,0,1
+424,Ambipom,Ambipom,,4,0,0,1
+425,Drifloon,Drifloon,,4,0,0,1
+426,Drifblim,Drifblim,,4,0,0,1
+427,Buneary,Buneary,,4,0,0,1
+428,Lopunny,Lopunny,,4,0,0,1
+428,Lopunny,Lopunny (Mega),Mega,4,0,0,1
+429,Mismagius,Mismagius,,4,0,0,1
+430,Honchkrow,Honchkrow,,4,0,0,1
+431,Glameow,Glameow,,4,0,0,1
+432,Purugly,Purugly,,4,0,0,1
+433,Chingling,Chingling,,4,0,0,1
+434,Stunky,Stunky,,4,0,0,1
+435,Skuntank,Skuntank,,4,0,0,1
+436,Bronzor,Bronzor,,4,0,0,1
+437,Bronzong,Bronzong,,4,0,0,1
+438,Bonsly,Bonsly,,4,0,0,1
+439,Mime Jr.,Mime Jr.,,4,0,0,1
+440,Happiny,Happiny,,4,0,0,1
+441,Chatot,Chatot,,4,0,0,1
+442,Spiritomb,Spiritomb,,4,0,0,1
+443,Gible,Gible,,4,0,0,1
+444,Gabite,Gabite,,4,0,0,1
+445,Garchomp,Garchomp,,4,0,0,1
+445,Garchomp,Garchomp (Mega),Mega,4,0,0,1
+446,Munchlax,Munchlax,,4,0,0,1
+447,Riolu,Riolu,,4,0,0,1
+448,Lucario,Lucario,,4,0,0,1
+448,Lucario,Lucario (Mega),Mega,4,0,0,1
+449,Hippopotas,Hippopotas,,4,0,0,1
+450,Hippowdon,Hippowdon,,4,0,0,1
+451,Skorupi,Skorupi,,4,0,0,1
+452,Drapion,Drapion,,4,0,0,1
+453,Croagunk,Croagunk,,4,0,0,1
+454,Toxicroak,Toxicroak,,4,0,0,1
+455,Carnivine,Carnivine,,4,0,0,1
+456,Finneon,Finneon,,4,0,0,1
+457,Lumineon,Lumineon,,4,0,0,1
+458,Mantyke,Mantyke,,4,0,0,1
+459,Snover,Snover,,4,0,0,1
+460,Abomasnow,Abomasnow,,4,0,0,1
+460,Abomasnow,Abomasnow (Mega),Mega,4,0,0,1
+461,Weavile,Weavile,,4,0,0,1
+462,Magnezone,Magnezone,,4,0,0,1
+463,Lickilicky,Lickilicky,,4,0,0,1
+464,Rhyperior,Rhyperior,,4,0,0,1
+465,Tangrowth,Tangrowth,,4,0,0,1
+466,Electivire,Electivire,,4,0,0,1
+467,Magmortar,Magmortar,,4,0,0,1
+468,Togekiss,Togekiss,,4,0,0,1
+469,Yanmega,Yanmega,,4,0,0,1
+470,Leafeon,Leafeon,,4,0,0,1
+471,Glaceon,Glaceon,,4,0,0,1
+472,Gliscor,Gliscor,,4,0,0,1
+473,Mamoswine,Mamoswine,,4,0,0,1
+474,Porygon-Z,Porygon-Z,,4,0,0,1
+475,Gallade,Gallade,,4,0,0,1
+475,Gallade,Gallade (Mega),Mega,4,0,0,1
+476,Probopass,Probopass,,4,0,0,1
+477,Dusknoir,Dusknoir,,4,0,0,1
+478,Froslass,Froslass,,4,0,0,1
+479,Rotom,Rotom,,4,0,0,1
+479,Rotom,Rotom (Heat),Heat,4,0,0,1
+479,Rotom,Rotom (Wash),Wash,4,0,0,1
+479,Rotom,Rotom (Frost),Frost,4,0,0,1
+479,Rotom,Rotom (Fan),Fan,4,0,0,1
+479,Rotom,Rotom (Mow),Mow,4,0,0,1
+480,Uxie,Uxie,,4,1,0,1
+481,Mesprit,Mesprit,,4,1,0,1
+482,Azelf,Azelf,,4,1,0,1
+483,Dialga,Dialga,,4,1,0,1
+483,Dialga,Dialga (Origin Forme),Origin Forme,4,1,0,1
+484,Palkia,Palkia,,4,1,0,1
+484,Palkia,Palkia (Origin Forme),Origin Forme,4,1,0,1
+485,Heatran,Heatran,,4,1,0,1
+486,Regigigas,Regigigas,,4,1,0,1
+487,Giratina,Giratina (Altered Forme),Altered Forme,4,1,0,1
+487,Giratina,Giratina (Origin Forme),Origin Forme,4,1,0,1
+488,Cresselia,Cresselia,,4,1,0,1
+489,Phione,Phione,,4,0,1,1
+490,Manaphy,Manaphy,,4,0,1,1
+491,Darkrai,Darkrai,,4,0,1,1
+492,Shaymin,Shaymin (Land Forme),Land Forme,4,0,1,1
+492,Shaymin,Shaymin (Sky Forme),Sky Forme,4,0,1,1
+493,Arceus,Arceus,,4,0,1,1
+494,Victini,Victini,,5,0,1,0
+495,Snivy,Snivy,,5,0,0,1
+496,Servine,Servine,,5,0,0,1
+497,Serperior,Serperior,,5,0,0,1
+498,Tepig,Tepig,,5,0,0,1
+499,Pignite,Pignite,,5,0,0,1
+500,Emboar,Emboar,,5,0,0,1
+501,Oshawott,Oshawott,,5,0,0,1
+502,Dewott,Dewott,,5,0,0,1
+503,Samurott,Samurott,,5,0,0,1
+503,Samurott,Samurott (Hisuian),Hisuian,5,0,0,1
+504,Patrat,Patrat,,5,0,0,1
+505,Watchog,Watchog,,5,0,0,1
+506,Lillipup,Lillipup,,5,0,0,1
+507,Herdier,Herdier,,5,0,0,1
+508,Stoutland,Stoutland,,5,0,0,1
+509,Purrloin,Purrloin,,5,0,0,1
+510,Liepard,Liepard,,5,0,0,1
+511,Pansage,Pansage,,5,0,0,1
+512,Simisage,Simisage,,5,0,0,1
+513,Pansear,Pansear,,5,0,0,1
+514,Simisear,Simisear,,5,0,0,1
+515,Panpour,Panpour,,5,0,0,1
+516,Simipour,Simipour,,5,0,0,1
+517,Munna,Munna,,5,0,0,1
+518,Musharna,Musharna,,5,0,0,1
+519,Pidove,Pidove,,5,0,0,1
+520,Tranquill,Tranquill,,5,0,0,1
+521,Unfezant,Unfezant,,5,0,0,1
+522,Blitzle,Blitzle,,5,0,0,1
+523,Zebstrika,Zebstrika,,5,0,0,1
+524,Roggenrola,Roggenrola,,5,0,0,1
+525,Boldore,Boldore,,5,0,0,1
+526,Gigalith,Gigalith,,5,0,0,1
+527,Woobat,Woobat,,5,0,0,1
+528,Swoobat,Swoobat,,5,0,0,1
+529,Drilbur,Drilbur,,5,0,0,1
+530,Excadrill,Excadrill,,5,0,0,1
+531,Audino,Audino,,5,0,0,1
+531,Audino,Audino (Mega),Mega,5,0,0,1
+532,Timburr,Timburr,,5,0,0,1
+533,Gurdurr,Gurdurr,,5,0,0,1
+534,Conkeldurr,Conkeldurr,,5,0,0,1
+535,Tympole,Tympole,,5,0,0,1
+536,Palpitoad,Palpitoad,,5,0,0,1
+537,Seismitoad,Seismitoad,,5,0,0,1
+538,Throh,Throh,,5,0,0,1
+539,Sawk,Sawk,,5,0,0,1
+540,Sewaddle,Sewaddle,,5,0,0,1
+541,Swadloon,Swadloon,,5,0,0,1
+542,Leavanny,Leavanny,,5,0,0,1
+543,Venipede,Venipede,,5,0,0,1
+544,Whirlipede,Whirlipede,,5,0,0,1
+545,Scolipede,Scolipede,,5,0,0,1
+546,Cottonee,Cottonee,,5,0,0,1
+547,Whimsicott,Whimsicott,,5,0,0,1
+548,Petilil,Petilil,,5,0,0,1
+549,Lilligant,Lilligant,,5,0,0,1
+549,Lilligant,Lilligant (Hisuian),Hisuian,5,0,0,1
+550,Basculin,Basculin (Red-Striped Form),Red-Striped Form,5,0,0,1
+550,Basculin,Basculin (Blue-Striped Form),Blue-Striped Form,5,0,0,1
+550,Basculin,Basculin (White-Striped Form),White-Striped Form,5,0,0,1
+551,Sandile,Sandile,,5,0,0,1
+552,Krokorok,Krokorok,,5,0,0,1
+553,Krookodile,Krookodile,,5,0,0,1
+554,Darumaka,Darumaka,,5,0,0,1
+554,Darumaka,Darumaka (Galarian),Galarian,5,0,0,1
+555,Darmanitan,Darmanitan (Standard Mode),Standard Mode,5,0,0,1
+555,Darmanitan,Darmanitan (Zen Mode),Zen Mode,5,0,0,1
+555,Darmanitan,Darmanitan (Galarian Standard Mode),Galarian Standard Mode,5,0,0,1
+555,Darmanitan,Darmanitan (Galarian Zen Mode),Galarian Zen Mode,5,0,0,1
+556,Maractus,Maractus,,5,0,0,1
+557,Dwebble,Dwebble,,5,0,0,1
+558,Crustle,Crustle,,5,0,0,1
+559,Scraggy,Scraggy,,5,0,0,1
+560,Scrafty,Scrafty,,5,0,0,1
+561,Sigilyph,Sigilyph,,5,0,0,1
+562,Yamask,Yamask,,5,0,0,1
+562,Yamask,Yamask (Galarian),Galarian,5,0,0,1
+563,Cofagrigus,Cofagrigus,,5,0,0,1
+564,Tirtouga,Tirtouga,,5,0,0,1
+565,Carracosta,Carracosta,,5,0,0,1
+566,Archen,Archen,,5,0,0,1
+567,Archeops,Archeops,,5,0,0,1
+568,Trubbish,Trubbish,,5,0,0,1
+569,Garbodor,Garbodor,,5,0,0,1
+570,Zorua,Zorua,,5,0,0,1
+570,Zorua,Zorua (Hisuian),Hisuian,5,0,0,1
+571,Zoroark,Zoroark,,5,0,0,1
+571,Zoroark,Zoroark (Hisuian),Hisuian,5,0,0,1
+572,Minccino,Minccino,,5,0,0,1
+573,Cinccino,Cinccino,,5,0,0,1
+574,Gothita,Gothita,,5,0,0,1
+575,Gothorita,Gothorita,,5,0,0,1
+576,Gothitelle,Gothitelle,,5,0,0,1
+577,Solosis,Solosis,,5,0,0,1
+578,Duosion,Duosion,,5,0,0,1
+579,Reuniclus,Reuniclus,,5,0,0,1
+580,Ducklett,Ducklett,,5,0,0,1
+581,Swanna,Swanna,,5,0,0,1
+582,Vanillite,Vanillite,,5,0,0,1
+583,Vanillish,Vanillish,,5,0,0,1
+584,Vanilluxe,Vanilluxe,,5,0,0,1
+585,Deerling,Deerling,,5,0,0,1
+586,Sawsbuck,Sawsbuck,,5,0,0,1
+587,Emolga,Emolga,,5,0,0,1
+588,Karrablast,Karrablast,,5,0,0,1
+589,Escavalier,Escavalier,,5,0,0,1
+590,Foongus,Foongus,,5,0,0,1
+591,Amoonguss,Amoonguss,,5,0,0,1
+592,Frillish,Frillish,,5,0,0,1
+593,Jellicent,Jellicent,,5,0,0,1
+594,Alomomola,Alomomola,,5,0,0,1
+595,Joltik,Joltik,,5,0,0,1
+596,Galvantula,Galvantula,,5,0,0,1
+597,Ferroseed,Ferroseed,,5,0,0,1
+598,Ferrothorn,Ferrothorn,,5,0,0,1
+599,Klink,Klink,,5,0,0,1
+600,Klang,Klang,,5,0,0,1
+601,Klinklang,Klinklang,,5,0,0,1
+602,Tynamo,Tynamo,,5,0,0,1
+603,Eelektrik,Eelektrik,,5,0,0,1
+604,Eelektross,Eelektross,,5,0,0,1
+605,Elgyem,Elgyem,,5,0,0,1
+606,Beheeyem,Beheeyem,,5,0,0,1
+607,Litwick,Litwick,,5,0,0,1
+608,Lampent,Lampent,,5,0,0,1
+609,Chandelure,Chandelure,,5,0,0,1
+610,Axew,Axew,,5,0,0,1
+611,Fraxure,Fraxure,,5,0,0,1
+612,Haxorus,Haxorus,,5,0,0,1
+613,Cubchoo,Cubchoo,,5,0,0,1
+614,Beartic,Beartic,,5,0,0,1
+615,Cryogonal,Cryogonal,,5,0,0,1
+616,Shelmet,Shelmet,,5,0,0,1
+617,Accelgor,Accelgor,,5,0,0,1
+618,Stunfisk,Stunfisk,,5,0,0,1
+618,Stunfisk,Stunfisk (Galarian),Galarian,5,0,0,1
+619,Mienfoo,Mienfoo,,5,0,0,1
+620,Mienshao,Mienshao,,5,0,0,1
+621,Druddigon,Druddigon,,5,0,0,1
+622,Golett,Golett,,5,0,0,1
+623,Golurk,Golurk,,5,0,0,1
+624,Pawniard,Pawniard,,5,0,0,1
+625,Bisharp,Bisharp,,5,0,0,1
+626,Bouffalant,Bouffalant,,5,0,0,1
+627,Rufflet,Rufflet,,5,0,0,1
+628,Braviary,Braviary,,5,0,0,1
+628,Braviary,Braviary (Hisuian),Hisuian,5,0,0,1
+629,Vullaby,Vullaby,,5,0,0,1
+630,Mandibuzz,Mandibuzz,,5,0,0,1
+631,Heatmor,Heatmor,,5,0,0,1
+632,Durant,Durant,,5,0,0,1
+633,Deino,Deino,,5,0,0,1
+634,Zweilous,Zweilous,,5,0,0,1
+635,Hydreigon,Hydreigon,,5,0,0,1
+636,Larvesta,Larvesta,,5,0,0,1
+637,Volcarona,Volcarona,,5,0,0,1
+638,Cobalion,Cobalion,,5,1,0,1
+639,Terrakion,Terrakion,,5,1,0,1
+640,Virizion,Virizion,,5,1,0,1
+641,Tornadus,Tornadus (Incarnate Forme),Incarnate Forme,5,1,0,1
+641,Tornadus,Tornadus (Therian Forme),Therian Forme,5,1,0,1
+642,Thundurus,Thundurus (Incarnate Forme),Incarnate Forme,5,1,0,1
+642,Thundurus,Thundurus (Therian Forme),Therian Forme,5,1,0,1
+643,Reshiram,Reshiram,,5,1,0,1
+644,Zekrom,Zekrom,,5,1,0,1
+645,Landorus,Landorus (Incarnate Forme),Incarnate Forme,5,1,0,1
+645,Landorus,Landorus (Therian Forme),Therian Forme,5,1,0,1
+646,Kyurem,Kyurem,,5,1,0,1
+646,Kyurem,Kyurem (White),White,5,1,0,1
+646,Kyurem,Kyurem (Black),Black,5,1,0,1
+647,Keldeo,Keldeo (Ordinary Form),Ordinary Form,5,0,1,1
+647,Keldeo,Keldeo (Resolute Form),Resolute Form,5,0,1,1
+648,Meloetta,Meloetta (Aria Forme),Aria Forme,5,0,1,1
+648,Meloetta,Meloetta (Pirouette Forme),Pirouette Forme,5,0,1,1
+649,Genesect,Genesect,,5,0,1,1
+650,Chespin,Chespin,,6,0,0,1
+651,Quilladin,Quilladin,,6,0,0,1
+652,Chesnaught,Chesnaught,,6,0,0,1
+653,Fennekin,Fennekin,,6,0,0,1
+654,Braixen,Braixen,,6,0,0,1
+655,Delphox,Delphox,,6,0,0,1
+656,Froakie,Froakie,,6,0,0,1
+657,Frogadier,Frogadier,,6,0,0,1
+658,Greninja,Greninja,,6,0,0,1
+658,Greninja,Greninja (Ash-),Ash-,6,0,0,1
+659,Bunnelby,Bunnelby,,6,0,0,1
+660,Diggersby,Diggersby,,6,0,0,1
+661,Fletchling,Fletchling,,6,0,0,1
+662,Fletchinder,Fletchinder,,6,0,0,1
+663,Talonflame,Talonflame,,6,0,0,1
+664,Scatterbug,Scatterbug,,6,0,0,1
+665,Spewpa,Spewpa,,6,0,0,1
+666,Vivillon,Vivillon,,6,0,0,1
+667,Litleo,Litleo,,6,0,0,1
+668,Pyroar,Pyroar,,6,0,0,1
+669,Flabébé,Flabébé,,6,0,0,1
+670,Floette,Floette,,6,0,0,1
+671,Florges,Florges,,6,0,0,1
+672,Skiddo,Skiddo,,6,0,0,1
+673,Gogoat,Gogoat,,6,0,0,1
+674,Pancham,Pancham,,6,0,0,1
+675,Pangoro,Pangoro,,6,0,0,1
+676,Furfrou,Furfrou,,6,0,0,1
+677,Espurr,Espurr,,6,0,0,1
+678,Meowstic,Meowstic (Male),Male,6,0,0,1
+678,Meowstic,Meowstic (Female),Female,6,0,0,1
+679,Honedge,Honedge,,6,0,0,1
+680,Doublade,Doublade,,6,0,0,1
+681,Aegislash,Aegislash (Shield Forme),Shield Forme,6,0,0,1
+681,Aegislash,Aegislash (Blade Forme),Blade Forme,6,0,0,1
+682,Spritzee,Spritzee,,6,0,0,1
+683,Aromatisse,Aromatisse,,6,0,0,1
+684,Swirlix,Swirlix,,6,0,0,1
+685,Slurpuff,Slurpuff,,6,0,0,1
+686,Inkay,Inkay,,6,0,0,1
+687,Malamar,Malamar,,6,0,0,1
+687,Malamar,Malamar (Mega),Mega,6,0,0,1
+688,Binacle,Binacle,,6,0,0,1
+689,Barbaracle,Barbaracle,,6,0,0,1
+690,Skrelp,Skrelp,,6,0,0,1
+691,Dragalge,Dragalge,,6,0,0,1
+692,Clauncher,Clauncher,,6,0,0,1
+693,Clawitzer,Clawitzer,,6,0,0,1
+694,Helioptile,Helioptile,,6,0,0,1
+695,Heliolisk,Heliolisk,,6,0,0,1
+696,Tyrunt,Tyrunt,,6,0,0,1
+697,Tyrantrum,Tyrantrum,,6,0,0,1
+698,Amaura,Amaura,,6,0,0,1
+699,Aurorus,Aurorus,,6,0,0,1
+700,Sylveon,Sylveon,,6,0,0,1
+701,Hawlucha,Hawlucha,,6,0,0,1
+701,Hawlucha,Hawlucha (Mega),Mega,6,0,0,1
+702,Dedenne,Dedenne,,6,0,0,1
+703,Carbink,Carbink,,6,0,0,1
+704,Goomy,Goomy,,6,0,0,1
+705,Sliggoo,Sliggoo,,6,0,0,1
+705,Sliggoo,Sliggoo (Hisuian),Hisuian,6,0,0,1
+706,Goodra,Goodra,,6,0,0,1
+706,Goodra,Goodra (Hisuian),Hisuian,6,0,0,1
+707,Klefki,Klefki,,6,0,0,1
+708,Phantump,Phantump,,6,0,0,1
+709,Trevenant,Trevenant,,6,0,0,1
+710,Pumpkaboo,Pumpkaboo (Average Size),Average Size,6,0,0,1
+710,Pumpkaboo,Pumpkaboo (Small Size),Small Size,6,0,0,1
+710,Pumpkaboo,Pumpkaboo (Large Size),Large Size,6,0,0,1
+710,Pumpkaboo,Pumpkaboo (Super Size),Super Size,6,0,0,1
+711,Gourgeist,Gourgeist (Average Size),Average Size,6,0,0,1
+711,Gourgeist,Gourgeist (Small Size),Small Size,6,0,0,1
+711,Gourgeist,Gourgeist (Large Size),Large Size,6,0,0,1
+711,Gourgeist,Gourgeist (Super Size),Super Size,6,0,0,1
+712,Bergmite,Bergmite,,6,0,0,1
+713,Avalugg,Avalugg,,6,0,0,1
+713,Avalugg,Avalugg (Hisuian),Hisuian,6,0,0,1
+714,Noibat,Noibat,,6,0,0,1
+715,Noivern,Noivern,,6,0,0,1
+716,Xerneas,Xerneas,,6,1,0,1
+717,Yveltal,Yveltal,,6,1,0,1
+718,Zygarde,Zygarde (50% Forme),50% Forme,6,1,0,1
+718,Zygarde,Zygarde (10% Forme),10% Forme,6,1,0,1
+718,Zygarde,Zygarde (Complete Forme),Complete Forme,6,1,0,1
+719,Diancie,Diancie,,6,0,1,1
+719,Diancie,Diancie (Mega),Mega,6,0,1,1
+720,Hoopa,Hoopa (Hoopa Confined),Hoopa Confined,6,0,1,0
+720,Hoopa,Hoopa (Hoopa Unbound),Hoopa Unbound,6,0,1,0
+721,Volcanion,Volcanion,,6,0,1,0
+722,Rowlet,Rowlet,,7,0,0,1
+723,Dartrix,Dartrix,,7,0,0,1
+724,Decidueye,Decidueye,,7,0,0,1
+724,Decidueye,Decidueye (Hisuian),Hisuian,7,0,0,1
+725,Litten,Litten,,7,0,0,1
+726,Torracat,Torracat,,7,0,0,1
+727,Incineroar,Incineroar,,7,0,0,1
+728,Popplio,Popplio,,7,0,0,1
+729,Brionne,Brionne,,7,0,0,1
+730,Primarina,Primarina,,7,0,0,1
+731,Pikipek,Pikipek,,7,0,0,1
+732,Trumbeak,Trumbeak,,7,0,0,1
+733,Toucannon,Toucannon,,7,0,0,1
+734,Yungoos,Yungoos,,7,0,0,1
+735,Gumshoos,Gumshoos,,7,0,0,1
+736,Grubbin,Grubbin,,7,0,0,1
+737,Charjabug,Charjabug,,7,0,0,1
+738,Vikavolt,Vikavolt,,7,0,0,1
+739,Crabrawler,Crabrawler,,7,0,0,1
+740,Crabominable,Crabominable,,7,0,0,1
+741,Oricorio,Oricorio (Baile Style),Baile Style,7,0,0,1
+741,Oricorio,Oricorio (Pom-Pom Style),Pom-Pom Style,7,0,0,1
+741,Oricorio,Oricorio (Pa'u Style),Pa'u Style,7,0,0,1
+741,Oricorio,Oricorio (Sensu Style),Sensu Style,7,0,0,1
+742,Cutiefly,Cutiefly,,7,0,0,1
+743,Ribombee,Ribombee,,7,0,0,1
+744,Rockruff,Rockruff,,7,0,0,1
+744,Rockruff,Rockruff (Own Tempo),Own Tempo,7,0,0,1
+745,Lycanroc,Lycanroc (Midday Form),Midday Form,7,0,0,1
+745,Lycanroc,Lycanroc (Midnight Form),Midnight Form,7,0,0,1
+745,Lycanroc,Lycanroc (Dusk Form),Dusk Form,7,0,0,1
+746,Wishiwashi,Wishiwashi (Solo Form),Solo Form,7,0,0,1
+746,Wishiwashi,Wishiwashi (School Form),School Form,7,0,0,1
+747,Mareanie,Mareanie,,7,0,0,1
+748,Toxapex,Toxapex,,7,0,0,1
+749,Mudbray,Mudbray,,7,0,0,1
+750,Mudsdale,Mudsdale,,7,0,0,1
+751,Dewpider,Dewpider,,7,0,0,1
+752,Araquanid,Araquanid,,7,0,0,1
+753,Fomantis,Fomantis,,7,0,0,1
+754,Lurantis,Lurantis,,7,0,0,1
+755,Morelull,Morelull,,7,0,0,1
+756,Shiinotic,Shiinotic,,7,0,0,1
+757,Salandit,Salandit,,7,0,0,1
+758,Salazzle,Salazzle,,7,0,0,1
+759,Stufful,Stufful,,7,0,0,1
+760,Bewear,Bewear,,7,0,0,1
+761,Bounsweet,Bounsweet,,7,0,0,1
+762,Steenee,Steenee,,7,0,0,1
+763,Tsareena,Tsareena,,7,0,0,1
+764,Comfey,Comfey,,7,0,0,1
+765,Oranguru,Oranguru,,7,0,0,1
+766,Passimian,Passimian,,7,0,0,1
+767,Wimpod,Wimpod,,7,0,0,1
+768,Golisopod,Golisopod,,7,0,0,1
+769,Sandygast,Sandygast,,7,0,0,1
+770,Palossand,Palossand,,7,0,0,1
+771,Pyukumuku,Pyukumuku,,7,0,0,1
+772,Type: Null,Type: Null,,7,1,0,1
+773,Silvally,Silvally,,7,1,0,1
+774,Minior,Minior (Meteor Form),Meteor Form,7,0,0,1
+774,Minior,Minior (Core Form),Core Form,7,0,0,1
+775,Komala,Komala,,7,0,0,1
+776,Turtonator,Turtonator,,7,0,0,1
+777,Togedemaru,Togedemaru,,7,0,0,1
+778,Mimikyu,Mimikyu,,7,0,0,1
+779,Bruxish,Bruxish,,7,0,0,1
+780,Drampa,Drampa,,7,0,0,1
+781,Dhelmise,Dhelmise,,7,0,0,1
+782,Jangmo-o,Jangmo-o,,7,0,0,1
+783,Hakamo-o,Hakamo-o,,7,0,0,1
+784,Kommo-o,Kommo-o,,7,0,0,1
+785,Tapu Koko,Tapu Koko,,7,1,0,1
+786,Tapu Lele,Tapu Lele,,7,1,0,1
+787,Tapu Bulu,Tapu Bulu,,7,1,0,1
+788,Tapu Fini,Tapu Fini,,7,1,0,1
+789,Cosmog,Cosmog,,7,1,0,0
+790,Cosmoem,Cosmoem,,7,1,0,0
+791,Solgaleo,Solgaleo,,7,1,0,1
+792,Lunala,Lunala,,7,1,0,1
+793,Nihilego,Nihilego,,7,0,0,1
+794,Buzzwole,Buzzwole,,7,0,0,1
+795,Pheromosa,Pheromosa,,7,0,0,1
+796,Xurkitree,Xurkitree,,7,0,0,1
+797,Celesteela,Celesteela,,7,0,0,1
+798,Kartana,Kartana,,7,0,0,1
+799,Guzzlord,Guzzlord,,7,0,0,1
+800,Necrozma,Necrozma,,7,1,0,1
+800,Necrozma,Necrozma (Dusk Mane),Dusk Mane,7,1,0,1
+800,Necrozma,Necrozma (Dawn Wings),Dawn Wings,7,1,0,1
+800,Necrozma,Necrozma (Ultra),Ultra,7,1,0,1
+801,Magearna,Magearna,,7,0,1,0
+802,Marshadow,Marshadow,,7,0,1,0
+803,Poipole,Poipole,,7,0,0,1
+804,Naganadel,Naganadel,,7,0,0,1
+805,Stakataka,Stakataka,,7,0,0,1
+806,Blacephalon,Blacephalon,,7,0,0,1
+807,Zeraora,Zeraora,,7,0,1,1
+808,Meltan,Meltan,,7,0,1,1
+809,Melmetal,Melmetal,,7,0,1,1
+810,Grookey,Grookey,,8,0,0,1
+811,Thwackey,Thwackey,,8,0,0,1
+812,Rillaboom,Rillaboom,,8,0,0,1
+813,Scorbunny,Scorbunny,,8,0,0,1
+814,Raboot,Raboot,,8,0,0,1
+815,Cinderace,Cinderace,,8,0,0,1
+816,Sobble,Sobble,,8,0,0,1
+817,Drizzile,Drizzile,,8,0,0,1
+818,Inteleon,Inteleon,,8,0,0,1
+819,Skwovet,Skwovet,,8,0,0,1
+820,Greedent,Greedent,,8,0,0,1
+821,Rookidee,Rookidee,,8,0,0,1
+822,Corvisquire,Corvisquire,,8,0,0,1
+823,Corviknight,Corviknight,,8,0,0,1
+824,Blipbug,Blipbug,,8,0,0,1
+825,Dottler,Dottler,,8,0,0,1
+826,Orbeetle,Orbeetle,,8,0,0,1
+827,Nickit,Nickit,,8,0,0,1
+828,Thievul,Thievul,,8,0,0,1
+829,Gossifleur,Gossifleur,,8,0,0,1
+830,Eldegoss,Eldegoss,,8,0,0,1
+831,Wooloo,Wooloo,,8,0,0,1
+832,Dubwool,Dubwool,,8,0,0,1
+833,Chewtle,Chewtle,,8,0,0,1
+834,Drednaw,Drednaw,,8,0,0,1
+835,Yamper,Yamper,,8,0,0,1
+836,Boltund,Boltund,,8,0,0,1
+837,Rolycoly,Rolycoly,,8,0,0,1
+838,Carkol,Carkol,,8,0,0,1
+839,Coalossal,Coalossal,,8,0,0,1
+840,Applin,Applin,,8,0,0,1
+841,Flapple,Flapple,,8,0,0,1
+842,Appletun,Appletun,,8,0,0,1
+843,Silicobra,Silicobra,,8,0,0,1
+844,Sandaconda,Sandaconda,,8,0,0,1
+845,Cramorant,Cramorant,,8,0,0,1
+846,Arrokuda,Arrokuda,,8,0,0,1
+847,Barraskewda,Barraskewda,,8,0,0,1
+848,Toxel,Toxel,,8,0,0,1
+849,Toxtricity,Toxtricity (Amped Form),Amped Form,8,0,0,1
+849,Toxtricity,Toxtricity (Low Key Form),Low Key Form,8,0,0,1
+850,Sizzlipede,Sizzlipede,,8,0,0,1
+851,Centiskorch,Centiskorch,,8,0,0,1
+852,Clobbopus,Clobbopus,,8,0,0,1
+853,Grapploct,Grapploct,,8,0,0,1
+854,Sinistea,Sinistea,,8,0,0,1
+855,Polteageist,Polteageist,,8,0,0,1
+856,Hatenna,Hatenna,,8,0,0,1
+857,Hattrem,Hattrem,,8,0,0,1
+858,Hatterene,Hatterene,,8,0,0,1
+859,Impidimp,Impidimp,,8,0,0,1
+860,Morgrem,Morgrem,,8,0,0,1
+861,Grimmsnarl,Grimmsnarl,,8,0,0,1
+862,Obstagoon,Obstagoon,,8,0,0,1
+863,Perrserker,Perrserker,,8,0,0,1
+864,Cursola,Cursola,,8,0,0,1
+865,Sirfetch'd,Sirfetch'd,,8,0,0,1
+866,Mr. Rime,Mr. Rime,,8,0,0,1
+867,Runerigus,Runerigus,,8,0,0,1
+868,Milcery,Milcery,,8,0,0,1
+869,Alcremie,Alcremie,,8,0,0,1
+870,Falinks,Falinks,,8,0,0,1
+871,Pincurchin,Pincurchin,,8,0,0,1
+872,Snom,Snom,,8,0,0,1
+873,Frosmoth,Frosmoth,,8,0,0,1
+874,Stonjourner,Stonjourner,,8,0,0,1
+875,Eiscue,Eiscue (Ice Face),Ice Face,8,0,0,1
+875,Eiscue,Eiscue (Noice Face),Noice Face,8,0,0,1
+876,Indeedee,Indeedee (Male),Male,8,0,0,1
+876,Indeedee,Indeedee (Female),Female,8,0,0,1
+877,Morpeko,Morpeko (Full Belly Mode),Full Belly Mode,8,0,0,1
+877,Morpeko,Morpeko (Hangry Mode),Hangry Mode,8,0,0,1
+878,Cufant,Cufant,,8,0,0,1
+879,Copperajah,Copperajah,,8,0,0,1
+880,Dracozolt,Dracozolt,,8,0,0,1
+881,Arctozolt,Arctozolt,,8,0,0,1
+882,Dracovish,Dracovish,,8,0,0,1
+883,Arctovish,Arctovish,,8,0,0,1
+884,Duraludon,Duraludon,,8,0,0,1
+885,Dreepy,Dreepy,,8,0,0,1
+886,Drakloak,Drakloak,,8,0,0,1
+887,Dragapult,Dragapult,,8,0,0,1
+888,Zacian,Zacian (Hero of Many Battles),Hero of Many Battles,8,1,0,1
+888,Zacian,Zacian (Crowned Sword),Crowned Sword,8,1,0,1
+889,Zamazenta,Zamazenta (Hero of Many Battles),Hero of Many Battles,8,1,0,1
+889,Zamazenta,Zamazenta (Crowned Shield),Crowned Shield,8,1,0,1
+890,Eternatus,Eternatus,,8,1,0,1
+890,Eternatus,Eternatus (Eternamax),Eternamax,8,1,0,1
+891,Kubfu,Kubfu,,8,1,0,0
+892,Urshifu,Urshifu (Single Strike Style),Single Strike Style,8,1,0,0
+892,Urshifu,Urshifu (Rapid Strike Style),Rapid Strike Style,8,1,0,0
+893,Zarude,Zarude,,8,0,1,0
+894,Regieleki,Regieleki,,8,1,0,1
+895,Regidrago,Regidrago,,8,1,0,1
+896,Glastrier,Glastrier,,8,1,0,0
+897,Spectrier,Spectrier,,8,1,0,0
+898,Calyrex,Calyrex,,8,1,0,0
+898,Calyrex,Calyrex (Ice Rider),Ice Rider,8,1,0,0
+898,Calyrex,Calyrex (Shadow Rider),Shadow Rider,8,1,0,0
+899,Wyrdeer,Wyrdeer,,8,0,0,1
+900,Kleavor,Kleavor,,8,0,0,1
+901,Ursaluna,Ursaluna,,8,0,0,1
+901,Ursaluna,Ursaluna (Bloodmoon),Bloodmoon,8,0,0,0
+902,Basculegion,Basculegion (Male),Male,8,0,0,1
+902,Basculegion,Basculegion (Female),Female,8,0,0,1
+903,Sneasler,Sneasler,,8,0,0,1
+904,Overqwil,Overqwil,,8,0,0,1
+905,Enamorus,Enamorus (Incarnate Forme),Incarnate Forme,8,1,0,1
+905,Enamorus,Enamorus (Therian Forme),Therian Forme,8,1,0,1
+906,Sprigatito,Sprigatito,,9,0,0,1
+907,Floragato,Floragato,,9,0,0,1
+908,Meowscarada,Meowscarada,,9,0,0,1
+909,Fuecoco,Fuecoco,,9,0,0,1
+910,Crocalor,Crocalor,,9,0,0,1
+911,Skeledirge,Skeledirge,,9,0,0,1
+912,Quaxly,Quaxly,,9,0,0,1
+913,Quaxwell,Quaxwell,,9,0,0,1
+914,Quaquaval,Quaquaval,,9,0,0,1
+915,Lechonk,Lechonk,,9,0,0,1
+916,Oinkologne,Oinkologne (Male),Male,9,0,0,1
+916,Oinkologne,Oinkologne (Female),Female,9,0,0,1
+917,Tarountula,Tarountula,,9,0,0,1
+918,Spidops,Spidops,,9,0,0,1
+919,Nymble,Nymble,,9,0,0,1
+920,Lokix,Lokix,,9,0,0,1
+921,Pawmi,Pawmi,,9,0,0,1
+922,Pawmo,Pawmo,,9,0,0,1
+923,Pawmot,Pawmot,,9,0,0,1
+924,Tandemaus,Tandemaus,,9,0,0,1
+925,Maushold,Maushold (Family of Four),Family of Four,9,0,0,1
+925,Maushold,Maushold (Family of Three),Family of Three,9,0,0,1
+926,Fidough,Fidough,,9,0,0,1
+927,Dachsbun,Dachsbun,,9,0,0,1
+928,Smoliv,Smoliv,,9,0,0,1
+929,Dolliv,Dolliv,,9,0,0,1
+930,Arboliva,Arboliva,,9,0,0,1
+931,Squawkabilly,Squawkabilly (Green Plumage),Green Plumage,9,0,0,1
+931,Squawkabilly,Squawkabilly (Blue Plumage),Blue Plumage,9,0,0,1
+931,Squawkabilly,Squawkabilly (Yellow Plumage),Yellow Plumage,9,0,0,1
+931,Squawkabilly,Squawkabilly (White Plumage),White Plumage,9,0,0,1
+932,Nacli,Nacli,,9,0,0,1
+933,Naclstack,Naclstack,,9,0,0,1
+934,Garganacl,Garganacl,,9,0,0,1
+935,Charcadet,Charcadet,,9,0,0,1
+936,Armarouge,Armarouge,,9,0,0,1
+937,Ceruledge,Ceruledge,,9,0,0,1
+938,Tadbulb,Tadbulb,,9,0,0,1
+939,Bellibolt,Bellibolt,,9,0,0,1
+940,Wattrel,Wattrel,,9,0,0,1
+941,Kilowattrel,Kilowattrel,,9,0,0,1
+942,Maschiff,Maschiff,,9,0,0,1
+943,Mabosstiff,Mabosstiff,,9,0,0,1
+944,Shroodle,Shroodle,,9,0,0,1
+945,Grafaiai,Grafaiai,,9,0,0,1
+946,Bramblin,Bramblin,,9,0,0,1
+947,Brambleghast,Brambleghast,,9,0,0,1
+948,Toedscool,Toedscool,,9,0,0,1
+949,Toedscruel,Toedscruel,,9,0,0,1
+950,Klawf,Klawf,,9,0,0,1
+951,Capsakid,Capsakid,,9,0,0,1
+952,Scovillain,Scovillain,,9,0,0,1
+953,Rellor,Rellor,,9,0,0,1
+954,Rabsca,Rabsca,,9,0,0,1
+955,Flittle,Flittle,,9,0,0,1
+956,Espathra,Espathra,,9,0,0,1
+957,Tinkatink,Tinkatink,,9,0,0,1
+958,Tinkatuff,Tinkatuff,,9,0,0,1
+959,Tinkaton,Tinkaton,,9,0,0,1
+960,Wiglett,Wiglett,,9,0,0,1
+961,Wugtrio,Wugtrio,,9,0,0,1
+962,Bombirdier,Bombirdier,,9,0,0,1
+963,Finizen,Finizen,,9,0,0,1
+964,Palafin,Palafin (Zero Form),Zero Form,9,0,0,1
+964,Palafin,Palafin (Hero Form),Hero Form,9,0,0,1
+965,Varoom,Varoom,,9,0,0,1
+966,Revavroom,Revavroom,,9,0,0,1
+967,Cyclizar,Cyclizar,,9,0,0,1
+968,Orthworm,Orthworm,,9,0,0,1
+969,Glimmet,Glimmet,,9,0,0,1
+970,Glimmora,Glimmora,,9,0,0,1
+971,Greavard,Greavard,,9,0,0,1
+972,Houndstone,Houndstone,,9,0,0,1
+973,Flamigo,Flamigo,,9,0,0,1
+974,Cetoddle,Cetoddle,,9,0,0,1
+975,Cetitan,Cetitan,,9,0,0,1
+976,Veluza,Veluza,,9,0,0,1
+977,Dondozo,Dondozo,,9,0,0,1
+978,Tatsugiri,Tatsugiri (Curly Form),Curly Form,9,0,0,1
+978,Tatsugiri,Tatsugiri (Droopy Form),Droopy Form,9,0,0,1
+978,Tatsugiri,Tatsugiri (Stretchy Form),Stretchy Form,9,0,0,1
+979,Annihilape,Annihilape,,9,0,0,1
+980,Clodsire,Clodsire,,9,0,0,1
+981,Farigiraf,Farigiraf,,9,0,0,1
+982,Dudunsparce,Dudunsparce (Two-Segment Form),Two-Segment Form,9,0,0,1
+982,Dudunsparce,Dudunsparce (Three-Segment Form),Three-Segment Form,9,0,0,1
+983,Kingambit,Kingambit,,9,0,0,1
+984,Great Tusk,Great Tusk,,9,0,0,1
+985,Scream Tail,Scream Tail,,9,0,0,1
+986,Brute Bonnet,Brute Bonnet,,9,0,0,1
+987,Flutter Mane,Flutter Mane,,9,0,0,1
+988,Slither Wing,Slither Wing,,9,0,0,1
+989,Sandy Shocks,Sandy Shocks,,9,0,0,1
+990,Iron Treads,Iron Treads,,9,0,0,1
+991,Iron Bundle,Iron Bundle,,9,0,0,1
+992,Iron Hands,Iron Hands,,9,0,0,1
+993,Iron Jugulis,Iron Jugulis,,9,0,0,1
+994,Iron Moth,Iron Moth,,9,0,0,1
+995,Iron Thorns,Iron Thorns,,9,0,0,1
+996,Frigibax,Frigibax,,9,0,0,1
+997,Arctibax,Arctibax,,9,0,0,1
+998,Baxcalibur,Baxcalibur,,9,0,0,1
+999,Gimmighoul,Gimmighoul (Chest Form),Chest Form,9,0,0,1
+999,Gimmighoul,Gimmighoul (Roaming Form),Roaming Form,9,0,0,1
+1000,Gholdengo,Gholdengo,,9,0,0,1
+1001,Wo-Chien,Wo-Chien,,9,1,0,1
+1002,Chien-Pao,Chien-Pao,,9,1,0,1
+1003,Ting-Lu,Ting-Lu,,9,1,0,1
+1004,Chi-Yu,Chi-Yu,,9,1,0,1
+1005,Roaring Moon,Roaring Moon,,9,0,0,1
+1006,Iron Valiant,Iron Valiant,,9,0,0,1
+1007,Koraidon,Koraidon,,9,1,0,1
+1008,Miraidon,Miraidon,,9,1,0,1
+1009,Walking Wake,Walking Wake,,9,0,0,0
+1010,Iron Leaves,Iron Leaves,,9,0,0,0
+1011,Dipplin,Dipplin,,9,0,0,1
+1012,Poltchageist,Poltchageist,,9,0,0,1
+1013,Sinistcha,Sinistcha,,9,0,0,1
+1014,Okidogi,Okidogi,,9,1,0,0
+1015,Munkidori,Munkidori,,9,1,0,0
+1016,Fezandipiti,Fezandipiti,,9,1,0,0
+1017,Ogerpon,Ogerpon (Teal Mask),Teal Mask,9,1,0,0
+1017,Ogerpon,Ogerpon (Wellspring Mask),Wellspring Mask,9,1,0,0
+1017,Ogerpon,Ogerpon (Hearthflame Mask),Hearthflame Mask,9,1,0,0
+1017,Ogerpon,Ogerpon (Cornerstone Mask),Cornerstone Mask,9,1,0,0
+1018,Archaludon,Archaludon,,9,0,0,1
+1019,Hydrapple,Hydrapple,,9,0,0,1
+1020,Gouging Fire,Gouging Fire,,9,0,0,0
+1021,Raging Bolt,Raging Bolt,,9,0,0,0
+1022,Iron Boulder,Iron Boulder,,9,0,0,0
+1023,Iron Crown,Iron Crown,,9,0,0,0
+1024,Terapagos,Terapagos (Normal Form),Normal Form,9,1,0,0
+1024,Terapagos,Terapagos (Terastal Form),Terastal Form,9,1,0,0
+1024,Terapagos,Terapagos (Stellar Form),Stellar Form,9,1,0,0
+1025,Pecharunt,Pecharunt,,9,0,1,0
